@@ -37,3 +37,34 @@
 // https://github.com/CodingTrain/Intro-to-Data-APIs-JS/tree/source/module2/data_selfie_app
 
 // https://www.section.io/engineering-education/how-to-get-ssl-https-for-localhost/ SO FUCKING USEFUL
+
+
+// AFTER A LONG DERAIL AND FUCKING WITH MY HTTPS BULLSHIT WE ARE BACK //
+
+// HOW TO COMMUNICATE DATA THAT'S EXTRACTED FROM CLIENT, SENT TO SERVER, SAVE TO DB
+
+// now we have data that we've acquired from the api on the client
+// data is displayed by ellie id and blah blah blah
+// we have a server that is hosting the code that is being sent to the client to run
+
+// now we want to store data in a database
+// the way that's going to happen is through a post request hahahahaha god
+
+// HTTPS POST REQUEST ASDKLJFALSDKFJASLDFKJASDLFKJASDFLKJSD YEAH
+
+// POST WITH FETCH
+
+// take data from client and send it to the server and have the server receive it
+// we can't quite save it to db yet
+
+// client executes its client side javascript and then we sent to server
+// concept known as routing
+// this is the place, the endpoint for the api, the address blah blah
+// adding json parsing to express
+// need route to understand data as json and make it readable in code
+// adapting fetch function to specify a post request
+
+// I want to set up a route on my server
+
+// specify this particular route wil be a get or a post
+
