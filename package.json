@@ -1,0 +1,11 @@
+{
+  "name": "tct-thedataselfieapp",
+  "version": "1.0.0",
+  "description": "the-data-selfie-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SJROHRXD",
+  "license": "ISC"
+}
