@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>TCT - THE DATA SELFIE APP</title>
+</head>
+<body>
+    <script>
+        if ("geolocation" in navigator) {
+            console.log("geolocation available");
+            navigator.geolocation.getCurrentPosition(position => {
+                console.log(position.coords);
+            });
+        } else {
+            console.log("geolocation not avavailable");
+        }
+    </script>
+
+THE BODY.
+</body>
